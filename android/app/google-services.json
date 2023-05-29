@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1038277155258",
+    "project_id": "academyfeemanagement",
+    "storage_bucket": "academyfeemanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038277155258:android:cd0983ac7c54381f126583",
+        "android_client_info": {
+          "package_name": "com.example.manager_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038277155258-sq5gqmqtng520au40evkj0sad9ek2acl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaO-x-tdX3ElJVk6ujWZ9Y6cgqt-SVnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038277155258-sq5gqmqtng520au40evkj0sad9ek2acl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038277155258:android:eeb9b8e9f6618da4126583",
+        "android_client_info": {
+          "package_name": "com.example.student_teacher_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038277155258-sq5gqmqtng520au40evkj0sad9ek2acl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaO-x-tdX3ElJVk6ujWZ9Y6cgqt-SVnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038277155258-sq5gqmqtng520au40evkj0sad9ek2acl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
